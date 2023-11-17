@@ -19,3 +19,6 @@ DIEGO
 | **Fecha:**             | 15 de diciembre de 2023, a las 10:00 AM.                                                                                                   |
 
 [Descripción de Componente de Hardware](hardware1.md)
+
+[Descripción de Componente de Hardware](hardware2.md)
+
